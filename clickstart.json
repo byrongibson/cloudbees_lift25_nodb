@@ -13,12 +13,6 @@
     "runtime": {
         "type": "jboss"
     },
-    "databases": [
-        {
-            "type": "mysql",
-            "alias": "LiftDB"
-        }
-    ],
     "build-with-jenkins": {
         "template": {
             "type": "maven"

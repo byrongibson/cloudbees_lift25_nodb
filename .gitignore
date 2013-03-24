@@ -57,16 +57,13 @@ id_dsa
 identity
 *private*
 
-# # Misc #
-# ########
-#build
-target/
-
 # # Scala/SBT/Lift #
 # ##################
+#build
 target
 *.db
 *.war
+console.devmode.log
 
 # editor temp files
 *~
@@ -75,5 +72,4 @@ vim~
 .sw?
 #*#
 DEADJOE
-
 
