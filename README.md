@@ -16,6 +16,7 @@ This ClickStart bootstraps you with a working lift web application, a database, 
 (push a change, your project will be built and deployed). 
 
 This Clickstart uses the latest version of Lift 2.5, currently Lift 2.5-RC2.  It will be updated as new versions are released.
+It is based on CloudBees' [default Lift 2.4 ClickStart](https://github.com/CloudBees-community/lift_template).
 
 You can use this as a starting point for your own lift application 
 (remember the source repository will be private to your account). 
