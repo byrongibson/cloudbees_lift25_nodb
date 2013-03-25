@@ -25,7 +25,7 @@ default [H2 DB][8] integrated into Lift.  Please see the [MySQL][19] and [Postgr
 Lift 2.5 ClickStarts if you prefer one of those databases, or [CloudBees' docs on how
 to make your own ClickStart][17] if you prefer something else.
 
-You can use this as a starting point for your own lift application (remember the source 
+You can use this as a starting point for your own Lift application (remember the source 
 repository will be private to your account). 
 
 [Click here][13] to launch this right now.
