@@ -21,7 +21,7 @@ will be built and deployed).
 This Clickstart uses the latest version of [Lift 2.5][16], currently Lift 2.5-RC2, 
 and will be updated as new versions are released.  It is based on CloudBees' 
 [default Lift 2.4 ClickStart][9] but does *not* include a MySQL instance, only the 
-default [H2 DB][8] integrated into Lift.  Please see the [MySQL][14] and [PostgreSQL][15] 
+default [H2 DB][8] integrated into Lift.  Please see the [MySQL][19] and [PostgreSQL][20] 
 Lift 2.5 ClickStarts if you prefer one of those databases, or [CloudBees' docs on how
 to make your own ClickStart][17] if you prefer something else.
 
@@ -98,6 +98,9 @@ Then finally run with jetty type "sbt update ~jetty-run" in the project director
 [15]:   https://grandcentral.cloudbees.com/#CB_clickstart=https://raw.github.com/byrongibson/cloudbees_lift25_pgsql/master/clickstart.json
 [16]:   https://github.com/lift/lift_25_sbt
 [17]:   https://developer.cloudbees.com/bin/view/RUN/How+to+make+your+own+Clickstart
+[18]:   https://github.com/byrongibson/cloudbees_lift25_nodb
+[19]:   https://github.com/byrongibson/cloudbees_lift25_mysql
+[20]:   https://github.com/byrongibson/cloudbees_lift25_pgsql
 
 []:     https://grandcentral.cloudbees.com/#CB_clickstart=https://raw.github.com/byrongibson/cloudbees_lift25_nodb/master/clickstart.json
 []:     https://grandcentral.cloudbees.com/#CB_clickstart=https://raw.github.com/byrongibson/cloudbees_lift25_mysql/master/clickstart.json
