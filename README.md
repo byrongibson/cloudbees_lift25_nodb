@@ -14,7 +14,7 @@ and sophisticated web applications like [Novell Vibe][6] and [Innovation Games][
 ![Scala Logo][11]
 
 This ClickStart bootstraps you with a working barebones lift web application, a database 
-([H2][8]), a source repository (populated, ready to go), and a Jenkins build service 
+([H2][8]), a source repository (populated, ready to go), and a [Jenkins build service][23] 
 running continuous deployment from the source repository (push a change, your project 
 will be built and deployed). 
 
@@ -101,6 +101,9 @@ Then finally run with jetty type "sbt update ~jetty-run" in the project director
 [18]:   https://github.com/byrongibson/cloudbees_lift25_nodb
 [19]:   https://github.com/byrongibson/cloudbees_lift25_mysql
 [20]:   https://github.com/byrongibson/cloudbees_lift25_pgsql
+[21]:   http://wiki.cloudbees.com/bin/view/DEV/PostgreSQL
+[22]:   http://wiki.cloudbees.com/bin/view/DEV/MySQL
+[23]:   http://wiki.cloudbees.com/bin/view/DEV/Getting+started+with+Jenkins
 
 []:     https://grandcentral.cloudbees.com/#CB_clickstart=https://raw.github.com/byrongibson/cloudbees_lift25_nodb/master/clickstart.json
 []:     https://grandcentral.cloudbees.com/#CB_clickstart=https://raw.github.com/byrongibson/cloudbees_lift25_mysql/master/clickstart.json
