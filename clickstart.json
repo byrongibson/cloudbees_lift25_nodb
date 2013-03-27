@@ -1,9 +1,9 @@
 {
     "id": "lift_25_nodb",
     "name": "Scala 2.9 and Lift 2.5",
-    "source": "git://github.com/byrongibson/lift_25_nodb.git",
+    "source": "git://github.com/byrongibson/cloudbees_lift_25_nodb.git",
     "description" : "A powerful, secure framework for interactive, scalable web applications",
-    "doc-url" : "https://github.com/byrongibson/lift_25_nodb/blob/master/README.md",
+    "doc-url" : "https://github.com/byrongibson/cloudbees_lift_25_nodb/blob/master/README.md",
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/lift_icon.png",
     "supported-by" : "cloudbees",
     "order" : 1, 
